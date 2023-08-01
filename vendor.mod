@@ -26,7 +26,7 @@ require (
 	github.com/cloudflare/cfssl v0.0.0-20180323000720-5d63dbd981b5
 	github.com/container-orchestrated-devices/container-device-interface v0.6.0
 	github.com/containerd/cgroups/v3 v3.0.2
-	github.com/containerd/containerd v1.6.21
+	github.com/containerd/containerd v1.6.22
 	github.com/containerd/continuity v0.4.1
 	github.com/containerd/fifo v1.1.0
 	github.com/containerd/typeurl/v2 v2.1.1
@@ -74,7 +74,7 @@ require (
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.1.0-rc3
+	github.com/opencontainers/image-spec v1.1.0-rc4
 	github.com/opencontainers/runc v1.1.7
 	github.com/opencontainers/runtime-spec v1.1.0
 	github.com/opencontainers/selinux v1.11.0
@@ -101,7 +101,7 @@ require (
 	golang.org/x/time v0.3.0
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4
 	google.golang.org/grpc v1.53.0
-	gotest.tools/v3 v3.4.0
+	gotest.tools/v3 v3.5.0
 	resenje.org/singleflight v0.3.0
 )
 
